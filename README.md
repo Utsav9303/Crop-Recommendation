@@ -56,6 +56,13 @@ Crop-Recommendation/
 
 ---
 
+![Screenshot](https://github.com/Utsav9303/Crop-Recommendation/blob/main/codeimages/Screenshot%202025-01-09%20190512.png)
+![Screenshot](https://github.com/Utsav9303/Crop-Recommendation/blob/main/codeimages/Screenshot%202025-01-09%20190931.png)
+![Screenshot](https://github.com/Utsav9303/Crop-Recommendation/blob/main/codeimages/Screenshot%202025-01-09%20191417.png)
+![Screenshot](https://github.com/Utsav9303/Crop-Recommendation/blob/main/codeimages/html.png)
+![Screenshot](https://github.com/Utsav9303/Crop-Recommendation/blob/main/codeimages/js.png)
+![Screenshot](https://github.com/Utsav9303/Crop-Recommendation/blob/main/codeimages/server.png)
+![Screenshot](https://github.com/Utsav9303/Crop-Recommendation/blob/main/codeimages/util.png)
 
 ## ⚙️ How to Run
 
